@@ -1,0 +1,1 @@
+command alias -- bm breakpoint set --name main

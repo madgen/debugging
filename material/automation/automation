@@ -1,0 +1,3 @@
+target create hello_world
+breakpoint set -n main
+run
